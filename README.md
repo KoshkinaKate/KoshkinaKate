@@ -1,5 +1,5 @@
 <div class="container" align="center">
-  <h2>Hi there! I'm Kate 👋</h2>
+  <h2>Hey there! I'm Kate 👋</h2>
 </div>
 
 <div class="info" align="justify" >
